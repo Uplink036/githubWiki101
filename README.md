@@ -35,5 +35,15 @@ There are also some stylings, most commonly used are:
 
 And it also supports links, which can take you both to places on the web, in the document and put images in your report. 
 
+## Folders 
+While this works great for one document, to be a proper wiki you need to be able to have multiple pages. This could mean multiple markdown files, but github also supports folders, meaning we can organize our pages in a relativly easy way. 
+
+Let's go to [workshops](./Workshops)
+
+## Contributions 
+
+Special thanks to:
+- [s02blom](https://github.com/s02blom) for helping me as I went along. 
+- [tajmone](https://github.com/tajmone/github-tests/wiki/) for his wiki experince. 
 
 Author Oliver Sjödin - 2023
