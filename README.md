@@ -26,14 +26,18 @@ The most useful ones headings which you write like
 ```
 > GitHub - writing and syntax 
 
-There are also some stylings, most commonly used are: 
+There are also some stylings, my most commonly used are: 
 | Style | Syntax | Result | 
 | --- | --- | --- | 
-| Italic | '*text*' | *text* |
-| Bold | '**text**' | **text** | 
-> GitHub - writing and syntax
+| Italic | \*text\* | *text* |
+| Bold | \*\*text\*\* | **text** | 
+> Github - writing and syntax
 
-And it also supports links, which can take you both to places on the web, in the document and put images in your report. 
+Github also supports links. You can link to...
+- ... a webpage 
+- ... a place in the current document
+- ... a file or folder in the current repo 
+- ... a local or online image, which will be displayed in place. 
 
 ## Folders 
 While this works great for one document, to be a proper wiki you need to be able to have multiple pages. This could mean multiple markdown files, but GitHub also supports folders, meaning we can organize our pages in a relativly easy way. 
